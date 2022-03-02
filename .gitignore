@@ -1,0 +1,11 @@
+
+**/*.swp
+
+**/target/*
+**/*.versionsBackup
+
+**/.classpath
+**/.project
+**/.settings/*
+
+
